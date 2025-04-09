@@ -1,0 +1,18 @@
+{
+	"name": "unstorage-driver-workers-cache",
+	"private": true,
+	"type": "module",
+	"module": "src/index.ts",
+	"main": "src/index.ts",
+	"devDependencies": {
+		"@biomejs/biome": "^2.0.0-beta.1",
+		"@tsconfig/bun": "^1.0.7",
+		"@types/bun": "latest",
+		"hono": "^4.7.6",
+		"wrangler": "^4.9.1"
+	},
+	"peerDependencies": {
+		"typescript": "^5",
+		"unstorage": "^1.15.0"
+	}
+}
