@@ -1,6 +1,6 @@
 {
 	"name": "unstorage-driver-workers-cache",
-	"private": true,
+	"version": "0.1.0",
 	"type": "module",
 	"module": "src/index.ts",
 	"main": "src/index.ts",
